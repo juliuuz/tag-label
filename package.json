@@ -1,0 +1,24 @@
+{
+  "name": "tag-label",
+  "version": "1.0.0",
+  "description": "vscode extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliuuz/tag-label.git"
+  },
+  "keywords": [],
+  "author": {
+    "email": "juliojaavier@gmail.com",
+    "name": "Juliuuz",
+    "url": "https://juliuuz.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliuuz/tag-label/issues"
+  },
+  "homepage": "https://github.com/juliuuz/tag-label#readme"
+}
